@@ -1,0 +1,8 @@
+/root/git/javapipe/src/main/java/edu/bigdata/training/testservice/config/ServiceConf.java
+/root/git/javapipe/src/main/java/edu/bigdata/training/testservice/TestService.java
+/root/git/javapipe/src/main/java/edu/bigdata/training/testservice/service/TestBusinessLogicService.java
+/root/git/javapipe/src/main/java/edu/bigdata/training/testservice/controller/model/Person.java
+/root/git/javapipe/src/main/java/edu/bigdata/training/testservice/controller/TestServiceController.java
+/root/git/javapipe/src/main/java/edu/bigdata/training/testservice/config/IgniteConf.java
+/root/git/javapipe/src/main/java/edu/bigdata/training/testservice/dao/TestServiceRepository.java
+/root/git/javapipe/src/main/java/edu/bigdata/training/testservice/model/PersonEntity.java
