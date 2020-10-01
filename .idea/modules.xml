@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/javapipe.iml" filepath="$PROJECT_DIR$/.idea/javapipe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-service.iml" filepath="$PROJECT_DIR$/test-service.iml" />
     </modules>
   </component>
 </project>
